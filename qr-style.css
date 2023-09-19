@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    align-items: center;
+    font-size: 11px;
+}
+
+.container-qr{
+    width: 1500px;
+}
+
+.img-qr{
+    background-color: aliceblue;
+    text-align: center;
+    border-radius: 150px;
+    box-shadow: 10px 5px 5px blue;
+    
+}
+
+.text-qr{
+    color: black;
+    font-size: 15px;
+}
+
